@@ -17,7 +17,7 @@ var createCounter = function(init) {
             currentCount = init;
             return currentCount;
         }
-    }
+    };
 
     
 };
